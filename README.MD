@@ -19,6 +19,7 @@ Kurssin suoritettuaan opiskelija ymmärtää ongelman ratkaisemiseen tarvittavia
 
 Kurssin laajuus on 10 opintopistettä joka vastaa 270 tunnin työmäärää. Viikoittainen työmäärä on noin 17 tuntia ja edellyttää merkittävässä määrin työskentelyä myös yhteisten tapaamisten ulkopuolella.
 
+
 ## Arviointiperusteet
 
 Kurssiarviointi on henkilökohtainen ja se perustuu seuraaviin osakokonaisuuksiin:
