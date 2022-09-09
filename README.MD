@@ -1,4 +1,6 @@
-# Softala / Multidisciplinary Software Project
+# Softala
+
+ [In english](./README_en.MD)
 
 **Työn alla**
 
