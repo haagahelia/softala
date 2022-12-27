@@ -2,9 +2,11 @@
 
  [In english](./README_en.MD)
 
-**Työn alla**
-
 Tämä Git-repositorio sisältää Softala -kurssin dokumentaation ja tiedostot. Kurssin opettajina toimivat Teemu Havulinna, Jukka Juslin, Juhani Välimäki ja Juha Hinkula (etunimi.sukunimi@haaga-helia.fi).
+
+## Kurssin aloitus
+
+Kurssi aloitetaan yhteisellä tilaisuudella, jossa esitellään kurssin toimeksiantajat ja heidän projektit. Jokainen opiskelija vastaa esitietokyselyyn ennen yhteistä tilaisuutta. Opiskelijat jaetaan ryhmiin projektien esittelyn jälkeen. Ryhmät sopivat tämän jälkeen yhteisistä käytännöistä yhdessä toimeksiantajan kanssa.
 
 ## Kursssin sisältö
 
@@ -33,6 +35,4 @@ Kurssiarviointi on henkilökohtainen ja se perustuu seuraaviin osakokonaisuuksii
 
 ## Aiemmin hankitun osaamisen tunnistaminen (AHOT)
 
-Jos olet hankkinut tämän opintojakson mukaisen osaamisen työsi kautta, voit osoittaa osaamisesi tavanomaisen osallistumisen sijasta AHOT-menettelyllä. Osaamisen tunnistamiseksi ilmoittaudu tälle kurssille normaalisti, ja ole yhteydessä kurssin opettajiin AHOT-järjestelyjen osalta viimeistään kurssin ensimmäisen viikon aikana.
-
-Tarkemmat ohjeet AHOT-käytäntöjen suhteen löydät erilliseltä sivulta ***todo***
+Jos olet hankkinut tämän opintojakson mukaisen osaamisen työsi kautta, voit osoittaa osaamisesi tavanomaisen osallistumisen sijasta AHOT-menettelyllä. Osaamisen tunnistamiseksi ilmoittaudu tälle kurssille normaalisti, ja ole yhteydessä kurssin opettajiin AHOT-järjestelyjen osalta viimeistään kurssin ensimmäisen viikon aikana. Kurssin AHOT-menettelyyn vaaditaan vähintään 6kk työkokemusta sovelluskehityksestä moderneilla menetelmillä. Opiskelijan pitää toimittaa todistus työkokemuskesta AHOT-menettelystä vastaavalle opettajalle.
