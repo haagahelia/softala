@@ -17,7 +17,7 @@ In the course, students implement the software for the right need. Students:
 5. Implement and present production-ready solution versions.
 6. Deliver their solutions to the client.
 
-After completing the course, the student understands the skills of a software developer needed to solve a problem. He is able to understand and describe needs and propose suitable software solutions. He can independently increase his knowledge of previously unknown technologies. He learns to evaluate and choose technologies and methods suitable for open world problem solving. He knows how to take responsibility for some aspect of the implemented solution. He knows how to share the knowledge he has acquired with other members of his team. As a team member, the student knows how to implement a producible software solution to a problem.
+After completing the course, the student understands the skills of a software developer needed to solve a problem. Student is able to understand and describe needs and propose suitable software solutions. Student can independently increase his knowledge of previously unknown technologies. Student learns to evaluate and choose technologies and methods suitable for open world problem solving. Student knows how to take responsibility for some aspect of the implemented solution. Student knows how to share the knowledge he has acquired with other members of his team. As a team member, the student knows how to implement a producible software solution to a problem.
 
 The scope of the course is 10 credits, which corresponds to 270 hours of work. The weekly workload is approximately 17 hours and requires a significant amount of work also outside of joint meetings.
 
