@@ -21,7 +21,7 @@ Opintojaksolla opiskelijat toteuttavat ohjelmiston oikeaan tarpeeseen. Opiskelij
 
 Kurssin suoritettuaan opiskelija ymmärtää ongelman ratkaisemiseen tarvittavia ohjelmistokehittäjän taitoja. Hän kykenee ymmärtämään ja kuvaamaan tarpeita ja ehdottamaan niihin soveltuvia ohjelmistoratkaisuja. Hän osaa itsenäisesti lisätä osaamistaan aiemmin tuntemattomista teknologioista. Hän oppii arvioimaan ja valitsemaan avoimen maailman ongelmanratkaisuun soveltuvia teknologioita ja menetelmiä. Hän osaa ottaa vastuun jostakin toteutettavan ratkaisun osa-alueesta. Hän osaa jakaa hankkimaansa osaamista muille tiiminsä jäsenille. Opiskelija osaa tiimin jäsenenä toteuttaa tuotantokelpoisen ohjelmistoratkaisun ongelmaan.
 
-Kurssin laajuus on 10 opintopistettä joka vastaa 270 tunnin työmäärää. Viikoittainen työmäärä on noin 17 tuntia ja edellyttää merkittävässä määrin työskentelyä myös yhteisten tapaamisten ulkopuolella.
+Kurssin laajuus on 10 opintopistettä joka vastaa 270 tunnin työmäärää. Viikoittainen työmäärä on noin 18 tuntia ja edellyttää merkittävässä määrin työskentelyä myös yhteisten tapaamisten ulkopuolella.
 
 
 ## Arviointiperusteet
