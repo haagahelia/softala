@@ -30,6 +30,6 @@ The course evaluation is personal and is based on the following components:
 3. Evaluation of the client
 4. Final product demo
 
-## Identification of previously acquired skills (AHOT)
+## Recognition of prior learning (RPL)
 
-If you have acquired the competence in accordance with this study course through your work, you can demonstrate your competence with the AHOT procedure instead of the usual participation. To identify your skills, register for this course normally, and contact the course teachers regarding AHOT arrangements no later than during the first week of the course. The AHOT procedure of the course requires at least 6 months of work experience in application development using modern methods. The student must submit a certificate of work experience to the teacher responsible for the AHOT procedure.
+If you have acquired the competence in accordance with this study course through your work, you can demonstrate your competence with the RPL procedure instead of the usual participation. To identify your skills, register for this course normally, and contact the course teachers regarding AHOT arrangements no later than during the first week of the course. The RPL procedure of the course requires at least 6 months of work experience in application development using modern methods. The student must submit a certificate of work experience to the teacher responsible for the RPL procedure.
