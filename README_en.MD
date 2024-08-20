@@ -1,6 +1,6 @@
 # Softala Project
 
-This Git repository contains the documentation and files for the Multidisciplinary Software Project course. The course teachers are Teemu Havulinna, Jukka Juslin, Juhani Välimäki and Juha Hinkula (first.last@haaga-helia.fi).
+This Git repository contains the documentation and files for the Multidisciplinary Software Project course. The course teachers are Jukka Remes, Jukka Juslin, Juhani Välimäki and Juha Hinkula (first.last@haaga-helia.fi).
 
 ## Start of the course
 
