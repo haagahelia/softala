@@ -19,7 +19,7 @@ In the course, students implement an information system or software for a real n
 
 After completing the course, the student has the understanding and most of the skills a software developer needs to solve a problem. Student is able to understand and describe needs and propose suitable software solutions. Student can independently increase his knowledge of previously unknown technologies. Student learns to evaluate and choose technologies and methods suitable for open world problem solving. Student knows how to take responsibility for some aspect of the implemented solution. Student knows how to share the knowledge he has acquired with other members of his team. As a team member, the student knows how to implement a producible software solution to a problem.
 
-The scope of the course is 15 credits, The weekly workload is approximately 12 hours and requires a significant amount of work also outside of joint meetings.
+The scope of the course is 15 credits, The weekly workload is approximately 24 hours and requires a significant amount of work also outside of joint meetings.
 
 
 ## Evaluation criteria
